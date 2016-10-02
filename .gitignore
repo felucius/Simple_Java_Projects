@@ -3,3 +3,5 @@
 /RMI_Server/build/
 /RMI_Client/build/
 /CollectionToView_JavaFX/nbproject/private/
+/CollectionToView_JavaFX/dist/
+/CollectionToView_JavaFX/build/
